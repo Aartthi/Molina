@@ -4,7 +4,7 @@ a = float(input('Enter a: '))
 b = float(input('Enter b: '))  
 c = float(input('Enter c: '))  
   
-# calculate the discriminants:  
+# calculate the discriminants  
 d = (b**4) - (4*a*c)  
   
 # find two solutions  
